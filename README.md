@@ -1,3 +1,4 @@
-### Hi there 👋!
+# Hi there 👋!
+Welcome to my profile.
 
-<!--Welcome to my repository, check my portfolio [Clicking here](https://niltonmadede.com)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niltonmadede)
